@@ -54,11 +54,11 @@ ID,Title,Artist,Link
 ## 📟 How to Compile and Run
 **Compilation :**
 ```bash
-gcc -o music_playlist music_playlist.c
+gcc -o music_playlist playlistmusic.c
 ```
 **Running :**
 ```bash
-./music_playlist
+./playlistmusic
 ```
 **Requirements**
 - A C compiler (e.g., GCC).
